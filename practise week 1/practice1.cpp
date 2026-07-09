@@ -19,4 +19,4 @@ int main() {
         cin>>numbers;
         cout<<hash[numbers]<<endl;
     }
-}
+} 

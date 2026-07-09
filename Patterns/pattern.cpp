@@ -162,6 +162,6 @@ void print14(int n) {
 int main(){
     int n;
     cin>>n;
-    print14(n);
+    print12(n);
 
 }

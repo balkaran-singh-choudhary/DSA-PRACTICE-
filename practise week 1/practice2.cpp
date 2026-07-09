@@ -8,7 +8,7 @@ int main(){
     for(int i = 0; i<n;i++) {
         cin>>arr[i];
     }
-    int hash[1000] = {0};
+    int hash[1000] = {0}; 
     for( int i =0 ; i<n ; i++) {
         hash[arr[i]]++;
     }
@@ -24,5 +24,5 @@ int main(){
 
     }
 }
-    cout<<"Highest Frequency element:"<<highestfreq<<endl;
+    cout<<"Highest Frequency :"<<highestfreq<<endl;
 }

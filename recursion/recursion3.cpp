@@ -1,3 +1,4 @@
+// reverse the array
 #include <bits/stdc++.h>
 using namespace std;
 void f (int i , int arr[] , int n){
@@ -18,4 +19,4 @@ int main() {
      cout<<arr[i]<<" ";
 
 
-}
+} 

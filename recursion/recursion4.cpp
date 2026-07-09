@@ -1,3 +1,4 @@
+//reverse  the string
 #include <bits/stdc++.h>
 using namespace std;
 bool f(int i , string &s ) {
